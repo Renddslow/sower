@@ -11,5 +11,9 @@
     "pokemon": "^2.0.2",
     "slugify": "^1.3.6",
     "superb": "^4.0.0"
-  }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ]
 }
